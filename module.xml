@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+<modules>
+	<id>ftpclient</id>
+	<module>
+		<module-name>ftpclient-table</module-name>
+		<display-name>FTP таблица</display-name>
+		<module-class>kz.tem.portal.ftpclient.FtpTable</module-class>
+	</module>
+	
+	
+</modules>
